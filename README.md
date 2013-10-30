@@ -1,6 +1,9 @@
-bs-admin-angular
+sb-admin-angular
 ================
 
-BS Admin with some AngularJS juice
+SB Admin with some AngularJS juice
 
 Apache 2.0 License
+
+
+Based on http://startbootstrap.com/sb-admin
